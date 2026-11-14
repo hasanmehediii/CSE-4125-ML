@@ -27,6 +27,24 @@ This course introduces the fundamental concepts of **supervised learning, unsupe
 
 ---
 
+## বাংলা রিভিশন নোট
+
+প্রতিটি নোটে সহজ ব্যাখ্যা, গুরুত্বপূর্ণ সমীকরণ ও রিভিশনের সারসংক্ষেপ রয়েছে। নতুন নোটগুলোতে চিত্র ও হাতে করা উদাহরণও আছে।
+
+| Topic | কী পড়বে? |
+| --- | --- |
+| [Linear Regression](Topics/Linear%20Regression/README.md) | Numeric prediction ও linear model |
+| [Logistic Regression](Topics/Logistic%20Regression/README.md) | Binary classification, sigmoid ও log-odds |
+| [Naive Bayes](Topics/Naive%20Bayes/README.md) | Bayes-এর সূত্র, independence, smoothing ও model-এর ধরন |
+| [Neural Network](Topics/Neural%20Network/README.md) | Neuron, forward propagation, backpropagation ও training |
+| [Gradient Descent](Topics/Gradient%20Descent/README.md) | Gradient-এর derivation, GD-এর ধরন, learning rate, momentum ও Adam |
+| [Evaluation Metrics](Topics/Evaluation%20Metrics/README.md) | Confusion matrix, precision/recall, ROC/PR, multiclass ও regression metrics |
+| [Multinomial Regression](Topics/Multinomial%20Regression/README.md) | Multiclass logistic regression, softmax, cross-entropy ও gradient |
+| [Cross Validation](Topics/Cross%20Validation/README.md) | K-fold, stratified/group/time split, leakage, nested CV ও model selection |
+| [Bias–Variance](Topics/Bias%20Variance/README.md) | Error decomposition, underfitting/overfitting, learning curve ও regularization |
+
+---
+
 # Syllabus
 
 ## 1. Fundamentals of Machine Learning

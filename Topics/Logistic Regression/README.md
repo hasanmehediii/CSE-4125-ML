@@ -331,3 +331,5 @@ $$
 **Final Example:**
 
 যদি model বলে কোনো email-এর Spam probability 0.91 এবং threshold 0.5, তাহলে email-টি Spam হিসেবে classify হবে।
+
+**আরও বিস্তারিত:** [Gradient Descent](../Gradient%20Descent/README.md) · [Evaluation Metrics](../Evaluation%20Metrics/README.md) · [Multiclass / Multinomial Regression](../Multinomial%20Regression/README.md)
